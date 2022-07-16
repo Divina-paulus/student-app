@@ -1,0 +1,25 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "yargs": "^14.2.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarahEl-maghraby/notes-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FarahEl-maghraby/notes-app/issues"
+  },
+  "homepage": "https://github.com/FarahEl-maghraby/notes-app#readme",
+  "description": ""
+}
